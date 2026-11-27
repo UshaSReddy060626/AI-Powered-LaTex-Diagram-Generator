@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv
+.git
+__pycache__
+*.pyc
+*.pdf
+eval_out*
+compare*
+results*.csv

@@ -1,0 +1,21 @@
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated
+kb_index.json
+eval_out*/
+compare/
+compare_run*/
+results*.csv
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
